@@ -38,7 +38,7 @@ python main.py \
     --phrase_model Qwen/Qwen2.5-1.5B-Instruct \
     --combine_divide 4 \
     --epochs 1 \
-    --num_private_samples 10 \
+    --num_private_samples 10 \ #test
     --result_folder result \
     --feature_extractor_batch_size 1024 \
     --feature_extractor all-mpnet-base-v2 \
