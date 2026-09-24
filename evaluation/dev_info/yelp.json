@@ -1,0 +1,27 @@
+{
+    "labelSet": {
+        "0": {
+            "A": "Buiness Category: Hotels & Travel",
+            "B": "Business Category: Beauty & Spas",
+            "C": "Business Category: Restaurants",
+            "D": "Business Category: Event Planning & Services",
+            "E": "Business Category: Shopping",
+            "F": "Business Category: Health & Medical",
+            "G": "Business Category: Bars",
+            "H": "Business Category: Grocery",
+            "I": "Business Category: Home & Garden",
+            "J": "Business Category: Arts & Entertainment"
+        },
+        "1": {
+            "A": "Review Stars: 1.0",
+            "B": "Review Stars: 2.0",
+            "C": "Review Stars: 3.0",
+            "D": "Review Stars: 4.0",
+            "E": "Review Stars: 5.0"
+        }
+    },
+    "prompt_before":{
+        "0": "Please classify the review into one of the following categories, and only output the corresponding letter. The review is: ",
+        "1": "Please classify the review into one of the following categories, and only output the corresponding letter. The review is: "
+    }
+}

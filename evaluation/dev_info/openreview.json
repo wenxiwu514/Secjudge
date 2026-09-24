@@ -1,0 +1,29 @@
+{
+    "labelSet": {
+        "0": {
+            "A": "Area: Generative models",
+            "B": "Area: General Machine Learning",
+            "C": "Area: Social Aspects of Machine Learning (eg, AI safety, fairness, privacy, interpretability, human-AI interaction, ethics)",
+            "D": "Area: Unsupervised and Self-supervised learning",
+            "E": "Area: Machine Learning for Sciences (eg biology, physics, health sciences, social sciences, climate/sustainability )",
+            "F": "Area: Theory (eg, control theory, learning theory, algorithmic game theory)",
+            "G": "Area: Neuroscience and Cognitive Science (e.g., neural coding, brain-computer interfaces)",
+            "H": "Area: Deep Learning and representational learning",
+            "I": "Area: Optimization (eg, convex and non-convex optimization)",
+            "J": "Area: Probabilistic Methods (eg, variational inference, causal inference, Gaussian processes)",
+            "K": "Area: Reinforcement Learning (eg, decision and control, planning, hierarchical RL, robotics)",
+            "L": "Area: Applications (eg, speech processing, computer vision, NLP)"
+        },
+        "1": {
+            "A": "Recommendation: 8: accept, good paper",
+            "B": "Recommendation: 6: marginally above the acceptance threshold",
+            "C": "Recommendation: 3: reject, not good enough",
+            "D": "Recommendation: 1: strong reject",
+            "E": "Recommendation: 5: marginally below the acceptance threshold"
+        }
+    },
+    "prompt_before":{
+        "0": "Please classify the area of the paper, and only output the corresponding letter. The paper is: ",
+        "1": "Please classify the recommendation of the paper, and only output the corresponding letter. The paper is: "
+    }
+}

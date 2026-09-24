@@ -1,0 +1,14 @@
+{
+    "labelSet": {
+        "0": {
+            "A": "very negative",
+            "B": "very positive",
+            "C": "neutral",
+            "D": "positive",
+            "E": "negative"
+        }
+    },
+    "prompt_before":{
+        "0": "Please classify the sentiment of the following sentence, and only output the corresponding letter. The sentence is: "
+    }
+}

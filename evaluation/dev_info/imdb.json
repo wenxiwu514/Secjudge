@@ -1,0 +1,12 @@
+{
+    "labelSet": {
+        "0": {
+            "A": "positive",
+            "B": "negative"
+        }
+    },
+    "prompt_before":{
+        "0": "Please classify the sentiment of the movie review, and only output the corresponding letter. The review is: "
+    }
+
+}
